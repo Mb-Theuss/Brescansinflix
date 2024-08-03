@@ -1,0 +1,19 @@
+body {
+    color: white;
+    background: BLACK;
+    margin: 0px;
+}
+
+
+header {
+    border-bottom: solid 2px rgb(109, 253, 109);
+    padding: 20px;
+    font-size: 20px;
+    font-style: oblique;
+    color: rgb(109, 253, 109);
+}
+
+section {
+    background:rgb(rgb(240, 228, 71));
+}
+
